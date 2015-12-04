@@ -76,3 +76,10 @@ Route::get('/documentation', function()
 {
 	return View::make('documentation');
 });
+
+Route::get('/user', function()
+{
+	return View::make('users');
+});
+
+Route::post('/api/user' ,'apiController@user' );
