@@ -11,7 +11,7 @@
 |
 */
 
-Route::get('/', function()
+Route::get('/admin', function()
 {
 	return View::make('home');
 });
@@ -21,9 +21,14 @@ Route::get('/charts', function()
 	return View::make('mcharts');
 });
 
-Route::get('/tables', function()
+Route::get('/users', function()
 {
 	return View::make('table');
+});
+
+Route::get('/pengguna', function()
+{
+	return View::make('pengguna');
 });
 
 Route::get('/forms', function()
@@ -67,7 +72,7 @@ Route::get('/blank', function()
 	return View::make('blank');
 });
 
-Route::get('/login', function()
+Route::get('/', function()
 {
 	return View::make('login');
 });

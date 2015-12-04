@@ -14,7 +14,7 @@
                                 </div>
                                 <div class="col-xs-9 text-right">
                                     <div class="huge">26</div>
-                                    <div>New Comments!</div>
+                                    <div>Laporan baru!</div>
                                 </div>
                             </div>
                         </div>
@@ -98,7 +98,7 @@
             <div class="row">
                 <div class="col-lg-8">
                 
-                @section ('pane2_panel_title', 'Responsive Timeline')
+                @section ('pane2_panel_title', 'Laporan terbaru')
                 @section ('pane2_panel_body')
                     
                     <!-- /.panel -->
