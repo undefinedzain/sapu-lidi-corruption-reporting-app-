@@ -26,6 +26,11 @@ Route::get('/users', function()
 	return View::make('table');
 });
 
+Route::get('/pengguna', function()
+{
+	return View::make('pengguna');
+});
+
 Route::get('/forms', function()
 {
 	return View::make('form');

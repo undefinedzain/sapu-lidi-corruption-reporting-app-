@@ -6,7 +6,7 @@
 <!--<![endif]-->
 <head>
 	<meta charset="utf-8"/>
-	<title>SB Admin v2.0 in Laravel 5</title>
+	<title>Sapulidi - Bersihkan Indonesia dari pungli</title>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta content="width=device-width, initial-scale=1" name="viewport"/>
 	<meta content="" name="description"/>
@@ -14,6 +14,11 @@
 
 	<link rel="stylesheet" href="{{ asset("assets/stylesheets/styles.css") }}" />
 </head>
+<style type="text/css">
+	body {
+		background-color: #F44336;
+	}
+</style>
 <body>
 	@yield('body')
 	<script src="{{ asset("assets/scripts/frontend.js") }}" type="text/javascript"></script>
