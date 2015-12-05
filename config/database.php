@@ -57,11 +57,8 @@ return [
 			'host'      => env('DB_HOST', 'localhost'),
 			'database'  => env('DB_DATABASE', 'sapulidi'),
 			'username'  => env('DB_USERNAME', 'root'),
-<<<<<<< HEAD
 			'password'  => env('DB_PASSWORD', 'qweasd123'),
-=======
-			'password'  => env('DB_PASSWORD', 'zera100%'),
->>>>>>> c267fd1aea9a4d394cd81e91e34a08ac7eee4721
+
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',

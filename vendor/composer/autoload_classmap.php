@@ -1370,11 +1370,9 @@ return array(
     'Psr\\Log\\LoggerInterface' => $vendorDir . '/psr/log/Psr/Log/LoggerInterface.php',
     'Psr\\Log\\LoggerTrait' => $vendorDir . '/psr/log/Psr/Log/LoggerTrait.php',
     'Psr\\Log\\NullLogger' => $vendorDir . '/psr/log/Psr/Log/NullLogger.php',
-<<<<<<< HEAD
     'Psr\\Log\\Test\\DummyTest' => $vendorDir . '/psr/log/Psr/Log/Test/LoggerInterfaceTest.php',
     'Psr\\Log\\Test\\LoggerInterfaceTest' => $vendorDir . '/psr/log/Psr/Log/Test/LoggerInterfaceTest.php',
-=======
->>>>>>> c267fd1aea9a4d394cd81e91e34a08ac7eee4721
+
     'Psy\\Autoloader' => $vendorDir . '/psy/psysh/src/Psy/Autoloader.php',
     'Psy\\CodeCleaner' => $vendorDir . '/psy/psysh/src/Psy/CodeCleaner.php',
     'Psy\\CodeCleaner\\AbstractClassPass' => $vendorDir . '/psy/psysh/src/Psy/CodeCleaner/AbstractClassPass.php',
@@ -1593,7 +1591,7 @@ return array(
     'Symfony\\Component\\Console\\Shell' => $vendorDir . '/symfony/console/Symfony/Component/Console/Shell.php',
     'Symfony\\Component\\Console\\Tester\\ApplicationTester' => $vendorDir . '/symfony/console/Symfony/Component/Console/Tester/ApplicationTester.php',
     'Symfony\\Component\\Console\\Tester\\CommandTester' => $vendorDir . '/symfony/console/Symfony/Component/Console/Tester/CommandTester.php',
-<<<<<<< HEAD
+
     'Symfony\\Component\\Console\\Tests\\ApplicationTest' => $vendorDir . '/symfony/console/Symfony/Component/Console/Tests/ApplicationTest.php',
     'Symfony\\Component\\Console\\Tests\\Command\\CommandTest' => $vendorDir . '/symfony/console/Symfony/Component/Console/Tests/Command/CommandTest.php',
     'Symfony\\Component\\Console\\Tests\\Command\\HelpCommandTest' => $vendorDir . '/symfony/console/Symfony/Component/Console/Tests/Command/HelpCommandTest.php',
@@ -1606,15 +1604,13 @@ return array(
     'Symfony\\Component\\Console\\Tests\\Descriptor\\ObjectsProvider' => $vendorDir . '/symfony/console/Symfony/Component/Console/Tests/Descriptor/ObjectsProvider.php',
     'Symfony\\Component\\Console\\Tests\\Descriptor\\TextDescriptorTest' => $vendorDir . '/symfony/console/Symfony/Component/Console/Tests/Descriptor/TextDescriptorTest.php',
     'Symfony\\Component\\Console\\Tests\\Descriptor\\XmlDescriptorTest' => $vendorDir . '/symfony/console/Symfony/Component/Console/Tests/Descriptor/XmlDescriptorTest.php',
-=======
-    'Symfony\\Component\\Console\\Tests\\Descriptor\\ObjectsProvider' => $vendorDir . '/symfony/console/Symfony/Component/Console/Tests/Descriptor/ObjectsProvider.php',
->>>>>>> c267fd1aea9a4d394cd81e91e34a08ac7eee4721
+
     'Symfony\\Component\\Console\\Tests\\Fixtures\\DescriptorApplication1' => $vendorDir . '/symfony/console/Symfony/Component/Console/Tests/Fixtures/DescriptorApplication1.php',
     'Symfony\\Component\\Console\\Tests\\Fixtures\\DescriptorApplication2' => $vendorDir . '/symfony/console/Symfony/Component/Console/Tests/Fixtures/DescriptorApplication2.php',
     'Symfony\\Component\\Console\\Tests\\Fixtures\\DescriptorCommand1' => $vendorDir . '/symfony/console/Symfony/Component/Console/Tests/Fixtures/DescriptorCommand1.php',
     'Symfony\\Component\\Console\\Tests\\Fixtures\\DescriptorCommand2' => $vendorDir . '/symfony/console/Symfony/Component/Console/Tests/Fixtures/DescriptorCommand2.php',
     'Symfony\\Component\\Console\\Tests\\Fixtures\\DummyOutput' => $vendorDir . '/symfony/console/Symfony/Component/Console/Tests/Fixtures/DummyOutput.php',
-<<<<<<< HEAD
+
     'Symfony\\Component\\Console\\Tests\\Formatter\\OutputFormatterStyleStackTest' => $vendorDir . '/symfony/console/Symfony/Component/Console/Tests/Formatter/OutputFormatterStyleStackTest.php',
     'Symfony\\Component\\Console\\Tests\\Formatter\\OutputFormatterStyleTest' => $vendorDir . '/symfony/console/Symfony/Component/Console/Tests/Formatter/OutputFormatterStyleTest.php',
     'Symfony\\Component\\Console\\Tests\\Formatter\\OutputFormatterTest' => $vendorDir . '/symfony/console/Symfony/Component/Console/Tests/Formatter/OutputFormatterTest.php',
@@ -1643,8 +1639,7 @@ return array(
     'Symfony\\Component\\Console\\Tests\\Output\\TestOutput' => $vendorDir . '/symfony/console/Symfony/Component/Console/Tests/Output/OutputTest.php',
     'Symfony\\Component\\Console\\Tests\\Tester\\ApplicationTesterTest' => $vendorDir . '/symfony/console/Symfony/Component/Console/Tests/Tester/ApplicationTesterTest.php',
     'Symfony\\Component\\Console\\Tests\\Tester\\CommandTesterTest' => $vendorDir . '/symfony/console/Symfony/Component/Console/Tests/Tester/CommandTesterTest.php',
-=======
->>>>>>> c267fd1aea9a4d394cd81e91e34a08ac7eee4721
+
     'Symfony\\Component\\Debug\\Debug' => $vendorDir . '/symfony/debug/Symfony/Component/Debug/Debug.php',
     'Symfony\\Component\\Debug\\DebugClassLoader' => $vendorDir . '/symfony/debug/Symfony/Component/Debug/DebugClassLoader.php',
     'Symfony\\Component\\Debug\\ErrorHandler' => $vendorDir . '/symfony/debug/Symfony/Component/Debug/ErrorHandler.php',
@@ -1663,7 +1658,6 @@ return array(
     'Symfony\\Component\\Debug\\FatalErrorHandler\\FatalErrorHandlerInterface' => $vendorDir . '/symfony/debug/Symfony/Component/Debug/FatalErrorHandler/FatalErrorHandlerInterface.php',
     'Symfony\\Component\\Debug\\FatalErrorHandler\\UndefinedFunctionFatalErrorHandler' => $vendorDir . '/symfony/debug/Symfony/Component/Debug/FatalErrorHandler/UndefinedFunctionFatalErrorHandler.php',
     'Symfony\\Component\\Debug\\FatalErrorHandler\\UndefinedMethodFatalErrorHandler' => $vendorDir . '/symfony/debug/Symfony/Component/Debug/FatalErrorHandler/UndefinedMethodFatalErrorHandler.php',
-<<<<<<< HEAD
     'Symfony\\Component\\Debug\\Tests\\ClassLoader' => $vendorDir . '/symfony/debug/Symfony/Component/Debug/Tests/DebugClassLoaderTest.php',
     'Symfony\\Component\\Debug\\Tests\\DebugClassLoaderTest' => $vendorDir . '/symfony/debug/Symfony/Component/Debug/Tests/DebugClassLoaderTest.php',
     'Symfony\\Component\\Debug\\Tests\\ErrorHandlerTest' => $vendorDir . '/symfony/debug/Symfony/Component/Debug/Tests/ErrorHandlerTest.php',
@@ -1672,8 +1666,7 @@ return array(
     'Symfony\\Component\\Debug\\Tests\\FatalErrorHandler\\ClassNotFoundFatalErrorHandlerTest' => $vendorDir . '/symfony/debug/Symfony/Component/Debug/Tests/FatalErrorHandler/ClassNotFoundFatalErrorHandlerTest.php',
     'Symfony\\Component\\Debug\\Tests\\FatalErrorHandler\\UndefinedFunctionFatalErrorHandlerTest' => $vendorDir . '/symfony/debug/Symfony/Component/Debug/Tests/FatalErrorHandler/UndefinedFunctionFatalErrorHandlerTest.php',
     'Symfony\\Component\\Debug\\Tests\\FatalErrorHandler\\UndefinedMethodFatalErrorHandlerTest' => $vendorDir . '/symfony/debug/Symfony/Component/Debug/Tests/FatalErrorHandler/UndefinedMethodFatalErrorHandlerTest.php',
-=======
->>>>>>> c267fd1aea9a4d394cd81e91e34a08ac7eee4721
+
     'Symfony\\Component\\Debug\\Tests\\Fixtures2\\RequiredTwice' => $vendorDir . '/symfony/debug/Symfony/Component/Debug/Tests/Fixtures2/RequiredTwice.php',
     'Symfony\\Component\\Debug\\Tests\\Fixtures\\CaseMismatch' => $vendorDir . '/symfony/debug/Symfony/Component/Debug/Tests/Fixtures/casemismatch.php',
     'Symfony\\Component\\Debug\\Tests\\Fixtures\\NotPSR0' => $vendorDir . '/symfony/debug/Symfony/Component/Debug/Tests/Fixtures/reallyNotPsr0.php',
@@ -1691,7 +1684,6 @@ return array(
     'Symfony\\Component\\EventDispatcher\\EventSubscriberInterface' => $vendorDir . '/symfony/event-dispatcher/EventSubscriberInterface.php',
     'Symfony\\Component\\EventDispatcher\\GenericEvent' => $vendorDir . '/symfony/event-dispatcher/GenericEvent.php',
     'Symfony\\Component\\EventDispatcher\\ImmutableEventDispatcher' => $vendorDir . '/symfony/event-dispatcher/ImmutableEventDispatcher.php',
-<<<<<<< HEAD
     'Symfony\\Component\\EventDispatcher\\Tests\\AbstractEventDispatcherTest' => $vendorDir . '/symfony/event-dispatcher/Tests/AbstractEventDispatcherTest.php',
     'Symfony\\Component\\EventDispatcher\\Tests\\CallableClass' => $vendorDir . '/symfony/event-dispatcher/Tests/AbstractEventDispatcherTest.php',
     'Symfony\\Component\\EventDispatcher\\Tests\\ContainerAwareEventDispatcherTest' => $vendorDir . '/symfony/event-dispatcher/Tests/ContainerAwareEventDispatcherTest.php',
@@ -1710,24 +1702,20 @@ return array(
     'Symfony\\Component\\EventDispatcher\\Tests\\TestEventSubscriberWithMultipleListeners' => $vendorDir . '/symfony/event-dispatcher/Tests/AbstractEventDispatcherTest.php',
     'Symfony\\Component\\EventDispatcher\\Tests\\TestEventSubscriberWithPriorities' => $vendorDir . '/symfony/event-dispatcher/Tests/AbstractEventDispatcherTest.php',
     'Symfony\\Component\\EventDispatcher\\Tests\\TestWithDispatcher' => $vendorDir . '/symfony/event-dispatcher/Tests/AbstractEventDispatcherTest.php',
-=======
->>>>>>> c267fd1aea9a4d394cd81e91e34a08ac7eee4721
+
     'Symfony\\Component\\Filesystem\\Exception\\ExceptionInterface' => $vendorDir . '/symfony/filesystem/Exception/ExceptionInterface.php',
     'Symfony\\Component\\Filesystem\\Exception\\FileNotFoundException' => $vendorDir . '/symfony/filesystem/Exception/FileNotFoundException.php',
     'Symfony\\Component\\Filesystem\\Exception\\IOException' => $vendorDir . '/symfony/filesystem/Exception/IOException.php',
     'Symfony\\Component\\Filesystem\\Exception\\IOExceptionInterface' => $vendorDir . '/symfony/filesystem/Exception/IOExceptionInterface.php',
     'Symfony\\Component\\Filesystem\\Filesystem' => $vendorDir . '/symfony/filesystem/Filesystem.php',
     'Symfony\\Component\\Filesystem\\LockHandler' => $vendorDir . '/symfony/filesystem/LockHandler.php',
-<<<<<<< HEAD
+
     'Symfony\\Component\\Filesystem\\Tests\\ExceptionTest' => $vendorDir . '/symfony/filesystem/Tests/ExceptionTest.php',
     'Symfony\\Component\\Filesystem\\Tests\\FilesystemTest' => $vendorDir . '/symfony/filesystem/Tests/FilesystemTest.php',
     'Symfony\\Component\\Filesystem\\Tests\\FilesystemTestCase' => $vendorDir . '/symfony/filesystem/Tests/FilesystemTestCase.php',
     'Symfony\\Component\\Filesystem\\Tests\\Fixtures\\MockStream\\MockStream' => $vendorDir . '/symfony/filesystem/Tests/Fixtures/MockStream/MockStream.php',
     'Symfony\\Component\\Filesystem\\Tests\\LockHandlerTest' => $vendorDir . '/symfony/filesystem/Tests/LockHandlerTest.php',
-=======
-    'Symfony\\Component\\Filesystem\\Tests\\FilesystemTestCase' => $vendorDir . '/symfony/filesystem/Tests/FilesystemTestCase.php',
-    'Symfony\\Component\\Filesystem\\Tests\\Fixtures\\MockStream\\MockStream' => $vendorDir . '/symfony/filesystem/Tests/Fixtures/MockStream/MockStream.php',
->>>>>>> c267fd1aea9a4d394cd81e91e34a08ac7eee4721
+
     'Symfony\\Component\\Finder\\Adapter\\AbstractAdapter' => $vendorDir . '/symfony/finder/Symfony/Component/Finder/Adapter/AbstractAdapter.php',
     'Symfony\\Component\\Finder\\Adapter\\AbstractFindAdapter' => $vendorDir . '/symfony/finder/Symfony/Component/Finder/Adapter/AbstractFindAdapter.php',
     'Symfony\\Component\\Finder\\Adapter\\AdapterInterface' => $vendorDir . '/symfony/finder/Symfony/Component/Finder/Adapter/AdapterInterface.php',
@@ -1765,20 +1753,18 @@ return array(
     'Symfony\\Component\\Finder\\Shell\\Command' => $vendorDir . '/symfony/finder/Symfony/Component/Finder/Shell/Command.php',
     'Symfony\\Component\\Finder\\Shell\\Shell' => $vendorDir . '/symfony/finder/Symfony/Component/Finder/Shell/Shell.php',
     'Symfony\\Component\\Finder\\SplFileInfo' => $vendorDir . '/symfony/finder/Symfony/Component/Finder/SplFileInfo.php',
-<<<<<<< HEAD
     'Symfony\\Component\\Finder\\Tests\\Comparator\\ComparatorTest' => $vendorDir . '/symfony/finder/Symfony/Component/Finder/Tests/Comparator/ComparatorTest.php',
     'Symfony\\Component\\Finder\\Tests\\Comparator\\DateComparatorTest' => $vendorDir . '/symfony/finder/Symfony/Component/Finder/Tests/Comparator/DateComparatorTest.php',
     'Symfony\\Component\\Finder\\Tests\\Comparator\\NumberComparatorTest' => $vendorDir . '/symfony/finder/Symfony/Component/Finder/Tests/Comparator/NumberComparatorTest.php',
     'Symfony\\Component\\Finder\\Tests\\Expression\\ExpressionTest' => $vendorDir . '/symfony/finder/Symfony/Component/Finder/Tests/Expression/ExpressionTest.php',
     'Symfony\\Component\\Finder\\Tests\\Expression\\GlobTest' => $vendorDir . '/symfony/finder/Symfony/Component/Finder/Tests/Expression/GlobTest.php',
     'Symfony\\Component\\Finder\\Tests\\Expression\\RegexTest' => $vendorDir . '/symfony/finder/Symfony/Component/Finder/Tests/Expression/RegexTest.php',
-=======
->>>>>>> c267fd1aea9a4d394cd81e91e34a08ac7eee4721
+
     'Symfony\\Component\\Finder\\Tests\\FakeAdapter\\DummyAdapter' => $vendorDir . '/symfony/finder/Symfony/Component/Finder/Tests/FakeAdapter/DummyAdapter.php',
     'Symfony\\Component\\Finder\\Tests\\FakeAdapter\\FailingAdapter' => $vendorDir . '/symfony/finder/Symfony/Component/Finder/Tests/FakeAdapter/FailingAdapter.php',
     'Symfony\\Component\\Finder\\Tests\\FakeAdapter\\NamedAdapter' => $vendorDir . '/symfony/finder/Symfony/Component/Finder/Tests/FakeAdapter/NamedAdapter.php',
     'Symfony\\Component\\Finder\\Tests\\FakeAdapter\\UnsupportedAdapter' => $vendorDir . '/symfony/finder/Symfony/Component/Finder/Tests/FakeAdapter/UnsupportedAdapter.php',
-<<<<<<< HEAD
+
     'Symfony\\Component\\Finder\\Tests\\FinderTest' => $vendorDir . '/symfony/finder/Symfony/Component/Finder/Tests/FinderTest.php',
     'Symfony\\Component\\Finder\\Tests\\Iterator\\CustomFilterIteratorTest' => $vendorDir . '/symfony/finder/Symfony/Component/Finder/Tests/Iterator/CustomFilterIteratorTest.php',
     'Symfony\\Component\\Finder\\Tests\\Iterator\\DateRangeFilterIteratorTest' => $vendorDir . '/symfony/finder/Symfony/Component/Finder/Tests/Iterator/DateRangeFilterIteratorTest.php',
@@ -1792,13 +1778,12 @@ return array(
     'Symfony\\Component\\Finder\\Tests\\Iterator\\InnerNameIterator' => $vendorDir . '/symfony/finder/Symfony/Component/Finder/Tests/Iterator/FilenameFilterIteratorTest.php',
     'Symfony\\Component\\Finder\\Tests\\Iterator\\InnerSizeIterator' => $vendorDir . '/symfony/finder/Symfony/Component/Finder/Tests/Iterator/SizeRangeFilterIteratorTest.php',
     'Symfony\\Component\\Finder\\Tests\\Iterator\\InnerTypeIterator' => $vendorDir . '/symfony/finder/Symfony/Component/Finder/Tests/Iterator/FileTypeFilterIteratorTest.php',
-=======
->>>>>>> c267fd1aea9a4d394cd81e91e34a08ac7eee4721
+
     'Symfony\\Component\\Finder\\Tests\\Iterator\\Iterator' => $vendorDir . '/symfony/finder/Symfony/Component/Finder/Tests/Iterator/Iterator.php',
     'Symfony\\Component\\Finder\\Tests\\Iterator\\IteratorTestCase' => $vendorDir . '/symfony/finder/Symfony/Component/Finder/Tests/Iterator/IteratorTestCase.php',
     'Symfony\\Component\\Finder\\Tests\\Iterator\\MockFileListIterator' => $vendorDir . '/symfony/finder/Symfony/Component/Finder/Tests/Iterator/MockFileListIterator.php',
     'Symfony\\Component\\Finder\\Tests\\Iterator\\MockSplFileInfo' => $vendorDir . '/symfony/finder/Symfony/Component/Finder/Tests/Iterator/MockSplFileInfo.php',
-<<<<<<< HEAD
+
     'Symfony\\Component\\Finder\\Tests\\Iterator\\MultiplePcreFilterIteratorTest' => $vendorDir . '/symfony/finder/Symfony/Component/Finder/Tests/Iterator/MultiplePcreFilterIteratorTest.php',
     'Symfony\\Component\\Finder\\Tests\\Iterator\\PathFilterIteratorTest' => $vendorDir . '/symfony/finder/Symfony/Component/Finder/Tests/Iterator/PathFilterIteratorTest.php',
     'Symfony\\Component\\Finder\\Tests\\Iterator\\RealIteratorTestCase' => $vendorDir . '/symfony/finder/Symfony/Component/Finder/Tests/Iterator/RealIteratorTestCase.php',
@@ -1807,9 +1792,7 @@ return array(
     'Symfony\\Component\\Finder\\Tests\\Iterator\\SortableIteratorTest' => $vendorDir . '/symfony/finder/Symfony/Component/Finder/Tests/Iterator/SortableIteratorTest.php',
     'Symfony\\Component\\Finder\\Tests\\Iterator\\TestMultiplePcreFilterIterator' => $vendorDir . '/symfony/finder/Symfony/Component/Finder/Tests/Iterator/MultiplePcreFilterIteratorTest.php',
     'Symfony\\Component\\Finder\\Tests\\Shell\\CommandTest' => $vendorDir . '/symfony/finder/Symfony/Component/Finder/Tests/Shell/CommandTest.php',
-=======
-    'Symfony\\Component\\Finder\\Tests\\Iterator\\RealIteratorTestCase' => $vendorDir . '/symfony/finder/Symfony/Component/Finder/Tests/Iterator/RealIteratorTestCase.php',
->>>>>>> c267fd1aea9a4d394cd81e91e34a08ac7eee4721
+
     'Symfony\\Component\\HttpFoundation\\AcceptHeader' => $vendorDir . '/symfony/http-foundation/Symfony/Component/HttpFoundation/AcceptHeader.php',
     'Symfony\\Component\\HttpFoundation\\AcceptHeaderItem' => $vendorDir . '/symfony/http-foundation/Symfony/Component/HttpFoundation/AcceptHeaderItem.php',
     'Symfony\\Component\\HttpFoundation\\ApacheRequest' => $vendorDir . '/symfony/http-foundation/Symfony/Component/HttpFoundation/ApacheRequest.php',
@@ -1871,7 +1854,6 @@ return array(
     'Symfony\\Component\\HttpFoundation\\Session\\Storage\\Proxy\\SessionHandlerProxy' => $vendorDir . '/symfony/http-foundation/Symfony/Component/HttpFoundation/Session/Storage/Proxy/SessionHandlerProxy.php',
     'Symfony\\Component\\HttpFoundation\\Session\\Storage\\SessionStorageInterface' => $vendorDir . '/symfony/http-foundation/Symfony/Component/HttpFoundation/Session/Storage/SessionStorageInterface.php',
     'Symfony\\Component\\HttpFoundation\\StreamedResponse' => $vendorDir . '/symfony/http-foundation/Symfony/Component/HttpFoundation/StreamedResponse.php',
-<<<<<<< HEAD
     'Symfony\\Component\\HttpFoundation\\Tests\\AcceptHeaderItemTest' => $vendorDir . '/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/AcceptHeaderItemTest.php',
     'Symfony\\Component\\HttpFoundation\\Tests\\AcceptHeaderTest' => $vendorDir . '/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/AcceptHeaderTest.php',
     'Symfony\\Component\\HttpFoundation\\Tests\\ApacheRequestTest' => $vendorDir . '/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/ApacheRequestTest.php',
@@ -1924,11 +1906,7 @@ return array(
     'Symfony\\Component\\HttpFoundation\\Tests\\Session\\Storage\\Proxy\\NativeProxyTest' => $vendorDir . '/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/Session/Storage/Proxy/NativeProxyTest.php',
     'Symfony\\Component\\HttpFoundation\\Tests\\Session\\Storage\\Proxy\\SessionHandlerProxyTest' => $vendorDir . '/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/Session/Storage/Proxy/SessionHandlerProxyTest.php',
     'Symfony\\Component\\HttpFoundation\\Tests\\StreamedResponseTest' => $vendorDir . '/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/StreamedResponseTest.php',
-    'Symfony\\Component\\HttpFoundation\\Tests\\StringableObject' => $vendorDir . '/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/ResponseTest.php',
-=======
-    'Symfony\\Component\\HttpFoundation\\Tests\\File\\FakeFile' => $vendorDir . '/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/File/FakeFile.php',
-    'Symfony\\Component\\HttpFoundation\\Tests\\ResponseTestCase' => $vendorDir . '/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/ResponseTestCase.php',
->>>>>>> c267fd1aea9a4d394cd81e91e34a08ac7eee4721
+
     'Symfony\\Component\\HttpKernel\\Bundle\\Bundle' => $vendorDir . '/symfony/http-kernel/Symfony/Component/HttpKernel/Bundle/Bundle.php',
     'Symfony\\Component\\HttpKernel\\Bundle\\BundleInterface' => $vendorDir . '/symfony/http-kernel/Symfony/Component/HttpKernel/Bundle/BundleInterface.php',
     'Symfony\\Component\\HttpKernel\\CacheClearer\\CacheClearerInterface' => $vendorDir . '/symfony/http-kernel/Symfony/Component/HttpKernel/CacheClearer/CacheClearerInterface.php',
@@ -2047,7 +2025,7 @@ return array(
     'Symfony\\Component\\HttpKernel\\Profiler\\RedisProfilerStorage' => $vendorDir . '/symfony/http-kernel/Symfony/Component/HttpKernel/Profiler/RedisProfilerStorage.php',
     'Symfony\\Component\\HttpKernel\\Profiler\\SqliteProfilerStorage' => $vendorDir . '/symfony/http-kernel/Symfony/Component/HttpKernel/Profiler/SqliteProfilerStorage.php',
     'Symfony\\Component\\HttpKernel\\TerminableInterface' => $vendorDir . '/symfony/http-kernel/Symfony/Component/HttpKernel/TerminableInterface.php',
-<<<<<<< HEAD
+
     'Symfony\\Component\\HttpKernel\\Tests\\Bundle\\BundleTest' => $vendorDir . '/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Bundle/BundleTest.php',
     'Symfony\\Component\\HttpKernel\\Tests\\CacheClearer\\ChainCacheClearerTest' => $vendorDir . '/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/CacheClearer/ChainCacheClearerTest.php',
     'Symfony\\Component\\HttpKernel\\Tests\\CacheWarmer\\CacheWarmerAggregateTest' => $vendorDir . '/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/CacheWarmer/CacheWarmerAggregateTest.php',
@@ -2087,8 +2065,7 @@ return array(
     'Symfony\\Component\\HttpKernel\\Tests\\EventListener\\TestLogger' => $vendorDir . '/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/EventListener/ExceptionListenerTest.php',
     'Symfony\\Component\\HttpKernel\\Tests\\EventListener\\TestSessionListenerTest' => $vendorDir . '/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/EventListener/TestSessionListenerTest.php',
     'Symfony\\Component\\HttpKernel\\Tests\\EventListener\\TranslatorListenerTest' => $vendorDir . '/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/EventListener/TranslatorListenerTest.php',
-=======
->>>>>>> c267fd1aea9a4d394cd81e91e34a08ac7eee4721
+
     'Symfony\\Component\\HttpKernel\\Tests\\Fixtures\\ExtensionAbsentBundle\\ExtensionAbsentBundle' => $vendorDir . '/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Fixtures/ExtensionAbsentBundle/ExtensionAbsentBundle.php',
     'Symfony\\Component\\HttpKernel\\Tests\\Fixtures\\ExtensionLoadedBundle\\DependencyInjection\\ExtensionLoadedExtension' => $vendorDir . '/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Fixtures/ExtensionLoadedBundle/DependencyInjection/ExtensionLoadedExtension.php',
     'Symfony\\Component\\HttpKernel\\Tests\\Fixtures\\ExtensionLoadedBundle\\ExtensionLoadedBundle' => $vendorDir . '/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Fixtures/ExtensionLoadedBundle/ExtensionLoadedBundle.php',
@@ -2100,7 +2077,6 @@ return array(
     'Symfony\\Component\\HttpKernel\\Tests\\Fixtures\\ExtensionPresentBundle\\ExtensionPresentBundle' => $vendorDir . '/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Fixtures/ExtensionPresentBundle/ExtensionPresentBundle.php',
     'Symfony\\Component\\HttpKernel\\Tests\\Fixtures\\FooBarBundle' => $vendorDir . '/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Fixtures/FooBarBundle.php',
     'Symfony\\Component\\HttpKernel\\Tests\\Fixtures\\KernelForOverrideName' => $vendorDir . '/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Fixtures/KernelForOverrideName.php',
-<<<<<<< HEAD
     'Symfony\\Component\\HttpKernel\\Tests\\Fixtures\\KernelForTest' => $vendorDir . '/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Fixtures/KernelForTest.php',
     'Symfony\\Component\\HttpKernel\\Tests\\Fixtures\\TestClient' => $vendorDir . '/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Fixtures/TestClient.php',
     'Symfony\\Component\\HttpKernel\\Tests\\Fixtures\\TestEventDispatcher' => $vendorDir . '/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Fixtures/TestEventDispatcher.php',
@@ -2136,18 +2112,7 @@ return array(
     'Symfony\\Component\\HttpKernel\\Tests\\Profiler\\SqliteProfilerStorageTest' => $vendorDir . '/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Profiler/SqliteProfilerStorageTest.php',
     'Symfony\\Component\\HttpKernel\\Tests\\TestHttpKernel' => $vendorDir . '/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/TestHttpKernel.php',
     'Symfony\\Component\\HttpKernel\\Tests\\UriSignerTest' => $vendorDir . '/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/UriSignerTest.php',
-=======
-    'Symfony\\Component\\HttpKernel\\Tests\\Fixtures\\TestClient' => $vendorDir . '/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Fixtures/TestClient.php',
-    'Symfony\\Component\\HttpKernel\\Tests\\Fixtures\\TestEventDispatcher' => $vendorDir . '/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Fixtures/TestEventDispatcher.php',
-    'Symfony\\Component\\HttpKernel\\Tests\\HttpCache\\HttpCacheTestCase' => $vendorDir . '/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/HttpCache/HttpCacheTestCase.php',
-    'Symfony\\Component\\HttpKernel\\Tests\\HttpCache\\TestHttpKernel' => $vendorDir . '/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/HttpCache/TestHttpKernel.php',
-    'Symfony\\Component\\HttpKernel\\Tests\\HttpCache\\TestMultipleHttpKernel' => $vendorDir . '/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/HttpCache/TestMultipleHttpKernel.php',
-    'Symfony\\Component\\HttpKernel\\Tests\\Logger' => $vendorDir . '/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Logger.php',
-    'Symfony\\Component\\HttpKernel\\Tests\\Profiler\\Mock\\MemcacheMock' => $vendorDir . '/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Profiler/Mock/MemcacheMock.php',
-    'Symfony\\Component\\HttpKernel\\Tests\\Profiler\\Mock\\MemcachedMock' => $vendorDir . '/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Profiler/Mock/MemcachedMock.php',
-    'Symfony\\Component\\HttpKernel\\Tests\\Profiler\\Mock\\RedisMock' => $vendorDir . '/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Profiler/Mock/RedisMock.php',
-    'Symfony\\Component\\HttpKernel\\Tests\\TestHttpKernel' => $vendorDir . '/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/TestHttpKernel.php',
->>>>>>> c267fd1aea9a4d394cd81e91e34a08ac7eee4721
+
     'Symfony\\Component\\HttpKernel\\UriSigner' => $vendorDir . '/symfony/http-kernel/Symfony/Component/HttpKernel/UriSigner.php',
     'Symfony\\Component\\Process\\Exception\\ExceptionInterface' => $vendorDir . '/symfony/process/Symfony/Component/Process/Exception/ExceptionInterface.php',
     'Symfony\\Component\\Process\\Exception\\InvalidArgumentException' => $vendorDir . '/symfony/process/Symfony/Component/Process/Exception/InvalidArgumentException.php',
@@ -2165,7 +2130,6 @@ return array(
     'Symfony\\Component\\Process\\Process' => $vendorDir . '/symfony/process/Symfony/Component/Process/Process.php',
     'Symfony\\Component\\Process\\ProcessBuilder' => $vendorDir . '/symfony/process/Symfony/Component/Process/ProcessBuilder.php',
     'Symfony\\Component\\Process\\ProcessUtils' => $vendorDir . '/symfony/process/Symfony/Component/Process/ProcessUtils.php',
-<<<<<<< HEAD
     'Symfony\\Component\\Process\\Tests\\AbstractProcessTest' => $vendorDir . '/symfony/process/Symfony/Component/Process/Tests/AbstractProcessTest.php',
     'Symfony\\Component\\Process\\Tests\\ExecutableFinderTest' => $vendorDir . '/symfony/process/Symfony/Component/Process/Tests/ExecutableFinderTest.php',
     'Symfony\\Component\\Process\\Tests\\NonStringifiable' => $vendorDir . '/symfony/process/Symfony/Component/Process/Tests/AbstractProcessTest.php',
@@ -2179,9 +2143,7 @@ return array(
     'Symfony\\Component\\Process\\Tests\\SigchildEnabledProcessTest' => $vendorDir . '/symfony/process/Symfony/Component/Process/Tests/SigchildEnabledProcessTest.php',
     'Symfony\\Component\\Process\\Tests\\SimpleProcessTest' => $vendorDir . '/symfony/process/Symfony/Component/Process/Tests/SimpleProcessTest.php',
     'Symfony\\Component\\Process\\Tests\\Stringifiable' => $vendorDir . '/symfony/process/Symfony/Component/Process/Tests/AbstractProcessTest.php',
-=======
-    'Symfony\\Component\\Process\\Tests\\ProcessInSigchildEnvironment' => $vendorDir . '/symfony/process/Symfony/Component/Process/Tests/ProcessInSigchildEnvironment.php',
->>>>>>> c267fd1aea9a4d394cd81e91e34a08ac7eee4721
+
     'Symfony\\Component\\Routing\\Annotation\\Route' => $vendorDir . '/symfony/routing/Symfony/Component/Routing/Annotation/Route.php',
     'Symfony\\Component\\Routing\\CompiledRoute' => $vendorDir . '/symfony/routing/Symfony/Component/Routing/CompiledRoute.php',
     'Symfony\\Component\\Routing\\Exception\\ExceptionInterface' => $vendorDir . '/symfony/routing/Symfony/Component/Routing/Exception/ExceptionInterface.php',
@@ -2225,17 +2187,15 @@ return array(
     'Symfony\\Component\\Routing\\RouteCompilerInterface' => $vendorDir . '/symfony/routing/Symfony/Component/Routing/RouteCompilerInterface.php',
     'Symfony\\Component\\Routing\\Router' => $vendorDir . '/symfony/routing/Symfony/Component/Routing/Router.php',
     'Symfony\\Component\\Routing\\RouterInterface' => $vendorDir . '/symfony/routing/Symfony/Component/Routing/RouterInterface.php',
-<<<<<<< HEAD
     'Symfony\\Component\\Routing\\Tests\\Annotation\\RouteTest' => $vendorDir . '/symfony/routing/Symfony/Component/Routing/Tests/Annotation/RouteTest.php',
     'Symfony\\Component\\Routing\\Tests\\CompiledRouteTest' => $vendorDir . '/symfony/routing/Symfony/Component/Routing/Tests/CompiledRouteTest.php',
-=======
->>>>>>> c267fd1aea9a4d394cd81e91e34a08ac7eee4721
+
     'Symfony\\Component\\Routing\\Tests\\Fixtures\\AnnotatedClasses\\AbstractClass' => $vendorDir . '/symfony/routing/Symfony/Component/Routing/Tests/Fixtures/AnnotatedClasses/AbstractClass.php',
     'Symfony\\Component\\Routing\\Tests\\Fixtures\\AnnotatedClasses\\BarClass' => $vendorDir . '/symfony/routing/Symfony/Component/Routing/Tests/Fixtures/AnnotatedClasses/BarClass.php',
     'Symfony\\Component\\Routing\\Tests\\Fixtures\\AnnotatedClasses\\FooClass' => $vendorDir . '/symfony/routing/Symfony/Component/Routing/Tests/Fixtures/AnnotatedClasses/FooClass.php',
     'Symfony\\Component\\Routing\\Tests\\Fixtures\\CustomXmlFileLoader' => $vendorDir . '/symfony/routing/Symfony/Component/Routing/Tests/Fixtures/CustomXmlFileLoader.php',
     'Symfony\\Component\\Routing\\Tests\\Fixtures\\RedirectableUrlMatcher' => $vendorDir . '/symfony/routing/Symfony/Component/Routing/Tests/Fixtures/RedirectableUrlMatcher.php',
-<<<<<<< HEAD
+
     'Symfony\\Component\\Routing\\Tests\\Generator\\Dumper\\PhpGeneratorDumperTest' => $vendorDir . '/symfony/routing/Symfony/Component/Routing/Tests/Generator/Dumper/PhpGeneratorDumperTest.php',
     'Symfony\\Component\\Routing\\Tests\\Generator\\UrlGeneratorTest' => $vendorDir . '/symfony/routing/Symfony/Component/Routing/Tests/Generator/UrlGeneratorTest.php',
     'Symfony\\Component\\Routing\\Tests\\Loader\\AbstractAnnotationLoaderTest' => $vendorDir . '/symfony/routing/Symfony/Component/Routing/Tests/Loader/AbstractAnnotationLoaderTest.php',
@@ -2259,8 +2219,7 @@ return array(
     'Symfony\\Component\\Routing\\Tests\\RouteCompilerTest' => $vendorDir . '/symfony/routing/Symfony/Component/Routing/Tests/RouteCompilerTest.php',
     'Symfony\\Component\\Routing\\Tests\\RouteTest' => $vendorDir . '/symfony/routing/Symfony/Component/Routing/Tests/RouteTest.php',
     'Symfony\\Component\\Routing\\Tests\\RouterTest' => $vendorDir . '/symfony/routing/Symfony/Component/Routing/Tests/RouterTest.php',
-=======
->>>>>>> c267fd1aea9a4d394cd81e91e34a08ac7eee4721
+
     'Symfony\\Component\\Security\\Core\\AuthenticationEvents' => $vendorDir . '/symfony/security-core/Symfony/Component/Security/Core/AuthenticationEvents.php',
     'Symfony\\Component\\Security\\Core\\Authentication\\AuthenticationManagerInterface' => $vendorDir . '/symfony/security-core/Symfony/Component/Security/Core/Authentication/AuthenticationManagerInterface.php',
     'Symfony\\Component\\Security\\Core\\Authentication\\AuthenticationProviderManager' => $vendorDir . '/symfony/security-core/Symfony/Component/Security/Core/Authentication/AuthenticationProviderManager.php',
@@ -2344,7 +2303,6 @@ return array(
     'Symfony\\Component\\Security\\Core\\Security' => $vendorDir . '/symfony/security-core/Symfony/Component/Security/Core/Security.php',
     'Symfony\\Component\\Security\\Core\\SecurityContext' => $vendorDir . '/symfony/security-core/Symfony/Component/Security/Core/SecurityContext.php',
     'Symfony\\Component\\Security\\Core\\SecurityContextInterface' => $vendorDir . '/symfony/security-core/Symfony/Component/Security/Core/SecurityContextInterface.php',
-<<<<<<< HEAD
     'Symfony\\Component\\Security\\Core\\Tests\\Authentication\\AuthenticationProviderManagerTest' => $vendorDir . '/symfony/security-core/Symfony/Component/Security/Core/Tests/Authentication/AuthenticationProviderManagerTest.php',
     'Symfony\\Component\\Security\\Core\\Tests\\Authentication\\AuthenticationTrustResolverTest' => $vendorDir . '/symfony/security-core/Symfony/Component/Security/Core/Tests/Authentication/AuthenticationTrustResolverTest.php',
     'Symfony\\Component\\Security\\Core\\Tests\\Authentication\\Provider\\AnonymousAuthenticationProviderTest' => $vendorDir . '/symfony/security-core/Symfony/Component/Security/Core/Tests/Authentication/Provider/AnonymousAuthenticationProviderTest.php',
@@ -2396,8 +2354,7 @@ return array(
     'Symfony\\Component\\Security\\Core\\Tests\\Validator\\Constraints\\LegacyUserPasswordValidator2Dot4ApiTest' => $vendorDir . '/symfony/security-core/Symfony/Component/Security/Core/Tests/Validator/Constraints/LegacyUserPasswordValidator2Dot4ApiTest.php',
     'Symfony\\Component\\Security\\Core\\Tests\\Validator\\Constraints\\LegacyUserPasswordValidatorTest' => $vendorDir . '/symfony/security-core/Symfony/Component/Security/Core/Tests/Validator/Constraints/LegacyUserPasswordValidatorTest.php',
     'Symfony\\Component\\Security\\Core\\Tests\\Validator\\Constraints\\UserPasswordValidatorTest' => $vendorDir . '/symfony/security-core/Symfony/Component/Security/Core/Tests/Validator/Constraints/UserPasswordValidatorTest.php',
-=======
->>>>>>> c267fd1aea9a4d394cd81e91e34a08ac7eee4721
+
     'Symfony\\Component\\Security\\Core\\User\\AdvancedUserInterface' => $vendorDir . '/symfony/security-core/Symfony/Component/Security/Core/User/AdvancedUserInterface.php',
     'Symfony\\Component\\Security\\Core\\User\\ChainUserProvider' => $vendorDir . '/symfony/security-core/Symfony/Component/Security/Core/User/ChainUserProvider.php',
     'Symfony\\Component\\Security\\Core\\User\\EquatableInterface' => $vendorDir . '/symfony/security-core/Symfony/Component/Security/Core/User/EquatableInterface.php',
@@ -2455,7 +2412,6 @@ return array(
     'Symfony\\Component\\Translation\\MessageSelector' => $vendorDir . '/symfony/translation/Symfony/Component/Translation/MessageSelector.php',
     'Symfony\\Component\\Translation\\MetadataAwareInterface' => $vendorDir . '/symfony/translation/Symfony/Component/Translation/MetadataAwareInterface.php',
     'Symfony\\Component\\Translation\\PluralizationRules' => $vendorDir . '/symfony/translation/Symfony/Component/Translation/PluralizationRules.php',
-<<<<<<< HEAD
     'Symfony\\Component\\Translation\\Tests\\Catalogue\\AbstractOperationTest' => $vendorDir . '/symfony/translation/Symfony/Component/Translation/Tests/Catalogue/AbstractOperationTest.php',
     'Symfony\\Component\\Translation\\Tests\\Catalogue\\DiffOperationTest' => $vendorDir . '/symfony/translation/Symfony/Component/Translation/Tests/Catalogue/DiffOperationTest.php',
     'Symfony\\Component\\Translation\\Tests\\Catalogue\\MergeOperationTest' => $vendorDir . '/symfony/translation/Symfony/Component/Translation/Tests/Catalogue/MergeOperationTest.php',
@@ -2493,9 +2449,7 @@ return array(
     'Symfony\\Component\\Translation\\Tests\\StringClass' => $vendorDir . '/symfony/translation/Symfony/Component/Translation/Tests/TranslatorTest.php',
     'Symfony\\Component\\Translation\\Tests\\TranslatorCacheTest' => $vendorDir . '/symfony/translation/Symfony/Component/Translation/Tests/TranslatorCacheTest.php',
     'Symfony\\Component\\Translation\\Tests\\TranslatorTest' => $vendorDir . '/symfony/translation/Symfony/Component/Translation/Tests/TranslatorTest.php',
-=======
-    'Symfony\\Component\\Translation\\Tests\\Loader\\LocalizedTestCase' => $vendorDir . '/symfony/translation/Symfony/Component/Translation/Tests/Loader/LocalizedTestCase.php',
->>>>>>> c267fd1aea9a4d394cd81e91e34a08ac7eee4721
+
     'Symfony\\Component\\Translation\\Translator' => $vendorDir . '/symfony/translation/Symfony/Component/Translation/Translator.php',
     'Symfony\\Component\\Translation\\TranslatorBagInterface' => $vendorDir . '/symfony/translation/Symfony/Component/Translation/TranslatorBagInterface.php',
     'Symfony\\Component\\Translation\\TranslatorInterface' => $vendorDir . '/symfony/translation/Symfony/Component/Translation/TranslatorInterface.php',
@@ -2522,15 +2476,13 @@ return array(
     'Symfony\\Component\\VarDumper\\Dumper\\DataDumperInterface' => $vendorDir . '/symfony/var-dumper/Symfony/Component/VarDumper/Dumper/DataDumperInterface.php',
     'Symfony\\Component\\VarDumper\\Dumper\\HtmlDumper' => $vendorDir . '/symfony/var-dumper/Symfony/Component/VarDumper/Dumper/HtmlDumper.php',
     'Symfony\\Component\\VarDumper\\Exception\\ThrowingCasterException' => $vendorDir . '/symfony/var-dumper/Symfony/Component/VarDumper/Exception/ThrowingCasterException.php',
-<<<<<<< HEAD
+
     'Symfony\\Component\\VarDumper\\Tests\\Caster\\PdoCasterTest' => $vendorDir . '/symfony/var-dumper/Symfony/Component/VarDumper/Tests/Caster/PdoCasterTest.php',
     'Symfony\\Component\\VarDumper\\Tests\\CliDumperTest' => $vendorDir . '/symfony/var-dumper/Symfony/Component/VarDumper/Tests/CliDumperTest.php',
     'Symfony\\Component\\VarDumper\\Tests\\Fixture\\DumbFoo' => $vendorDir . '/symfony/var-dumper/Symfony/Component/VarDumper/Tests/Fixtures/dumb-var.php',
     'Symfony\\Component\\VarDumper\\Tests\\HtmlDumperTest' => $vendorDir . '/symfony/var-dumper/Symfony/Component/VarDumper/Tests/HtmlDumperTest.php',
     'Symfony\\Component\\VarDumper\\Tests\\VarClonerTest' => $vendorDir . '/symfony/var-dumper/Symfony/Component/VarDumper/Tests/VarClonerTest.php',
-=======
-    'Symfony\\Component\\VarDumper\\Tests\\Fixture\\DumbFoo' => $vendorDir . '/symfony/var-dumper/Symfony/Component/VarDumper/Tests/Fixtures/dumb-var.php',
->>>>>>> c267fd1aea9a4d394cd81e91e34a08ac7eee4721
+
     'Symfony\\Component\\VarDumper\\VarDumper' => $vendorDir . '/symfony/var-dumper/Symfony/Component/VarDumper/VarDumper.php',
     'Symfony\\Component\\Yaml\\Dumper' => $vendorDir . '/symfony/yaml/Dumper.php',
     'Symfony\\Component\\Yaml\\Escaper' => $vendorDir . '/symfony/yaml/Escaper.php',
@@ -2540,7 +2492,6 @@ return array(
     'Symfony\\Component\\Yaml\\Exception\\RuntimeException' => $vendorDir . '/symfony/yaml/Exception/RuntimeException.php',
     'Symfony\\Component\\Yaml\\Inline' => $vendorDir . '/symfony/yaml/Inline.php',
     'Symfony\\Component\\Yaml\\Parser' => $vendorDir . '/symfony/yaml/Parser.php',
-<<<<<<< HEAD
     'Symfony\\Component\\Yaml\\Tests\\A' => $vendorDir . '/symfony/yaml/Tests/DumperTest.php',
     'Symfony\\Component\\Yaml\\Tests\\B' => $vendorDir . '/symfony/yaml/Tests/ParserTest.php',
     'Symfony\\Component\\Yaml\\Tests\\DumperTest' => $vendorDir . '/symfony/yaml/Tests/DumperTest.php',
@@ -2548,8 +2499,6 @@ return array(
     'Symfony\\Component\\Yaml\\Tests\\ParseExceptionTest' => $vendorDir . '/symfony/yaml/Tests/ParseExceptionTest.php',
     'Symfony\\Component\\Yaml\\Tests\\ParserTest' => $vendorDir . '/symfony/yaml/Tests/ParserTest.php',
     'Symfony\\Component\\Yaml\\Tests\\YamlTest' => $vendorDir . '/symfony/yaml/Tests/YamlTest.php',
-=======
->>>>>>> c267fd1aea9a4d394cd81e91e34a08ac7eee4721
     'Symfony\\Component\\Yaml\\Unescaper' => $vendorDir . '/symfony/yaml/Unescaper.php',
     'Symfony\\Component\\Yaml\\Yaml' => $vendorDir . '/symfony/yaml/Yaml.php',
     'TestCase' => $baseDir . '/tests/TestCase.php',

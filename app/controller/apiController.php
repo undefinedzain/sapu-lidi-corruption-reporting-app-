@@ -12,5 +12,4 @@ public function index()
 			->with('api', $api);
 	}
 
-
 }

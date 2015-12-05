@@ -1,4 +1,6 @@
-vendor/composer/autoload_real.php
-vendor/composer/autoload_classmap.php
- vendor/autoload.php
+/vendor/composer/autoload_real.php
+/vendor/composer/autoload_classmap.php
+/vendor/autoload.php
+/vendor
 config/database.php
+/storage
